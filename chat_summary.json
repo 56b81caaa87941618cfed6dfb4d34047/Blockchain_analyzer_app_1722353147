@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible and only appear when a user clicks on a menu icon?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"For the navigation links (Home, About, Contact), do you have specific pages already designed for these links, or do we need to create new pages for them?\", \"option1\": \"Existing pages need to be linked\", \"option2\": \"New pages need to be created\"}], \"input_token_count\": 266, \"output_token_count\": 122, \"time_taken\": \"0:00:12.801800\"}",
         "timestamp": "30072024152722",
         "message_id": "guest30072024152707"
+    },
+    {
+        "role": "user",
+        "content": "add a footer component with navlinks home, about and contact",
+        "timestamp": "30072024153001",
+        "message_id": "guest30072024153001"
     }
 ]
