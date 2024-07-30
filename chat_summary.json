@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain network status display\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer with search functionality\", \"checked\": false}, {\"feature\": \"Dark mode/light mode toggle for user preference\", \"checked\": true}, {\"feature\": \"Responsive chat support widget for quick inquiries\", \"checked\": false}, {\"feature\": \"Subscription form for blockchain updates newsletter\", \"checked\": false}, {\"feature\": \"User account creation for personalized blockchain insights\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 113, \"time_taken\": \"0:00:05.926857\"}",
         "timestamp": "30072024153008",
         "message_id": "guest30072024153001"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the navlinks home, about and contact",
+        "timestamp": "30072024153042",
+        "message_id": "guest30072024153042"
     }
 ]
