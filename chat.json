@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible and only appear when a user clicks on a menu icon?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"For the navigation links (Home, About, Contact), do you have specific pages already designed for these links, or do we need to create new pages for them?\", \"option1\": \"Existing pages need to be linked\", \"option2\": \"New pages need to be created\"}], \"input_token_count\": 266, \"output_token_count\": 122, \"time_taken\": \"0:00:12.801800\"}",
+        "message_id": "guest30072024152707",
+        "timestamp": "30072024152722",
+        "component_file_name": "simple_cta_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Floating action button for quick access to essential features like wallet, settings, or support\", \"checked\": true}, {\"feature\": \"Dark mode toggle on the sidebar for user preference\", \"checked\": false}, {\"feature\": \"Real-time notifications for blockchain updates, available in the sidebar\", \"checked\": true}, {\"feature\": \"Sidebar expansion to show detailed navigation labels on hover or click\", \"checked\": true}, {\"feature\": \"Dynamic 'Recent Activity' section in the sidebar to highlight latest blockchain transactions or alerts\", \"checked\": false}, {\"feature\": \"Customizable sidebar themes or colors to match user preference\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 134, \"time_taken\": \"0:00:08.457338\"}",
         "message_id": "guest30072024152707",
