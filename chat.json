@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the footer component to be sticky at the bottom of the page or static at the end of the content?\", \"option1\": \"Sticky at the bottom of the page\", \"option2\": \"Static at the end of the content\"}, {\"question 2\": \"Should the navlinks in the footer open in new tabs or in the same tab when clicked?\", \"option1\": \"Open in new tabs\", \"option2\": \"Open in the same tab\"}], \"input_token_count\": 266, \"output_token_count\": 111, \"time_taken\": \"0:00:04.186321\"}",
+        "message_id": "guest30072024153001",
+        "timestamp": "30072024153006",
+        "component_file_name": "simple_hero_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I'll add a footer component with those navlinks.",
         "message_id": "guest30072024153001",
