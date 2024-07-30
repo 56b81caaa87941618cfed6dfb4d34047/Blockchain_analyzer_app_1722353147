@@ -36,5 +36,11 @@
         "content": "add a footer component with navlinks home, about and contact",
         "timestamp": "30072024153001",
         "message_id": "guest30072024153001"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I'll add a footer component with those navlinks.",
+        "timestamp": "30072024153002",
+        "message_id": "guest30072024153001"
     }
 ]
