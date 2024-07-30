@@ -33,15 +33,15 @@ Vue.component("simple_footer_component_1722353151", {
             <div id="footer-container" class="max-w-screen-xl p-6 py-8 mx-auto lg:py-16 md:p-8 lg:p-10">
                 <hr id="footer-divider" class="my-8 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-10">
                 <div id="footer-content" class="text-center">
-                    <div class="flex">
-                        <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-6 text-3xl font-bold text-purple-600 dark:text-purple-400">
+                    <div class="flex justify-center">
+                        <a id="footer-logo-link" href="#" class="flex items-center mb-6 text-3xl font-bold text-purple-600 dark:text-purple-400">
                             <img id="footer-logo" src="./images/logo.svg" class="h-8 mr-4 sm:h-10" alt="Landwind Logo" />
                             BlockSight - Blockchain Analytics Suite
                         </a>
                     </div>
                 </div>
-                <div class="flex">
-                    <div id="footer-text" class="flex-1 block text-base text-center text-gray-600 dark:text-gray-300">
+                <div class="flex justify-center">
+                    <div id="footer-text" class="max-w-2xl text-base text-center text-gray-600 dark:text-gray-300">
                         Gain real-time insights into blockchain data with BlockSight's powerful analytics tools. Monitor transactions, track assets, and uncover emerging trends across multiple blockchains. Stay ahead of the curve with our cutting-edge platform.
                     </div>
                 </div>
