@@ -41,7 +41,7 @@ Vue.component("simple_footer_component_1722353151", {
                     </div>
                 </div>
                 <div class="flex justify-center">
-                    <div id="footer-text" class="max-w-2xl text-base text-center text-gray-700 dark:text-gray-300">
+                    <div id="footer-text" class="max-w-2xl text-base text-center text-black dark:text-white">
                         Gain real-time insights into blockchain data with BlockSight's powerful analytics tools. Monitor transactions, track assets, and uncover emerging trends across multiple blockchains. Stay ahead of the curve with our cutting-edge platform.
                     </div>
                 </div>
