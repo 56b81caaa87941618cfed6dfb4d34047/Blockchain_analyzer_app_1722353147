@@ -31,7 +31,7 @@ Vue.component("simple_footer_component_1722353151", {
         </nav>
         <footer id="footer-section" class="bg-white dark:bg-gray-900">
             <div id="footer-container" class="max-w-screen-xl p-8 py-12 mx-auto lg:py-16">
-                <hr id="footer-divider" class="my-10 border-gray-200 sm:mx-auto dark:border-gray-700">
+                <hr id="footer-divider" class="my-10 border-purple-200 sm:mx-auto dark:border-purple-700">
                 <div id="footer-content" class="text-center">
                     <div class="flex justify-center mb-6">
                         <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-black dark:text-white">
@@ -41,7 +41,7 @@ Vue.component("simple_footer_component_1722353151", {
                     </div>
                 </div>
                 <div class="flex justify-center">
-                    <div id="footer-text" class="max-w-2xl text-base text-center text-gray-600 dark:text-gray-300">
+                    <div id="footer-text" class="max-w-2xl text-base text-center text-gray-600 dark:text-purple-300">
                         Gain real-time insights into blockchain data with BlockSight's powerful analytics tools. Monitor transactions, track assets, and uncover emerging trends across multiple blockchains. Stay ahead of the curve with our cutting-edge platform.
                     </div>
                 </div>
