@@ -7,23 +7,23 @@ Vue.component("simple_footer_component_1722353151", {
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-6">
                 <a href="#" class="flex items-center">
                     <img src="./images/logo.svg" class="h-10 mr-4" alt="BlockSight Logo" />
-                    <span class="self-center text-3xl font-bold whitespace-nowrap text-black dark:text-white">BlockSight</span>
+                    <span class="self-center text-3xl font-bold whitespace-nowrap text-purple-600 dark:text-purple-400">BlockSight</span>
                 </a>
                 <div class="flex md:order-2">
-                    <button type="button" class="md:hidden text-gray-500 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:focus:ring-purple-600 rounded-lg text-sm p-3 mr-2">
+                    <button type="button" class="md:hidden text-purple-500 dark:text-purple-300 hover:bg-purple-100 dark:hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:focus:ring-purple-600 rounded-lg text-sm p-3 mr-2">
                         <i class='bx bx-menu text-2xl'></i>
                     </button>
                 </div>
                 <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
-                    <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-200 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-900 md:dark:bg-gray-900 dark:border-gray-700">
+                    <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-purple-200 rounded-lg bg-purple-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-900 md:dark:bg-gray-900 dark:border-purple-700">
                         <li>
                             <a href="#" class="block py-2 pl-3 pr-4 text-white bg-purple-600 rounded-lg md:bg-transparent md:text-purple-600 md:p-0 md:dark:text-purple-400 hover:bg-purple-700 md:hover:bg-transparent md:hover:text-purple-700" aria-current="page">Home</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-600 rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-purple-600 md:p-0 md:dark:hover:text-purple-400 dark:text-gray-300 dark:hover:bg-gray-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About</a>
+                            <a href="#" class="block py-2 pl-3 pr-4 text-purple-600 rounded-lg hover:bg-purple-100 md:hover:bg-transparent md:hover:text-purple-700 md:p-0 md:dark:hover:text-purple-400 dark:text-purple-300 dark:hover:bg-purple-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-purple-700">About</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-600 rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-purple-600 md:p-0 md:dark:hover:text-purple-400 dark:text-gray-300 dark:hover:bg-gray-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
+                            <a href="#" class="block py-2 pl-3 pr-4 text-purple-600 rounded-lg hover:bg-purple-100 md:hover:bg-transparent md:hover:text-purple-700 md:p-0 md:dark:hover:text-purple-400 dark:text-purple-300 dark:hover:bg-purple-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-purple-700">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -34,7 +34,7 @@ Vue.component("simple_footer_component_1722353151", {
                 <hr id="footer-divider" class="my-10 border-purple-200 sm:mx-auto dark:border-purple-700">
                 <div id="footer-content" class="text-center">
                     <div class="flex justify-center mb-6">
-                        <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-black dark:text-white">
+                        <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-purple-600 dark:text-purple-400">
                             <img id="footer-logo" src="./images/logo.svg" class="h-10 mr-4" alt="BlockSight Logo" />
                             BlockSight - Blockchain Analytics Suite
                         </a>
