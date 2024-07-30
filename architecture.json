@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "add a footer component with navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "add a navbar with the navlinks home, about and contact"
     }
 ]
