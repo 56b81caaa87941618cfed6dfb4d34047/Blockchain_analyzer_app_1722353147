@@ -7,7 +7,7 @@ Vue.component("simple_footer_component_1722353151", {
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-6">
                 <a href="#" class="flex items-center">
                     <img src="./images/logo.svg" class="h-10 mr-4" alt="BlockSight Logo" />
-                    <span class="self-center text-3xl font-bold whitespace-nowrap text-purple-600 dark:text-purple-400">BlockSight</span>
+                    <span class="self-center text-3xl font-bold whitespace-nowrap text-black dark:text-white">BlockSight</span>
                 </a>
                 <div class="flex md:order-2">
                     <button type="button" class="md:hidden text-gray-500 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:focus:ring-purple-600 rounded-lg text-sm p-3 mr-2">
@@ -20,10 +20,10 @@ Vue.component("simple_footer_component_1722353151", {
                             <a href="#" class="block py-2 pl-3 pr-4 text-white bg-purple-600 rounded-lg md:bg-transparent md:text-purple-600 md:p-0 md:dark:text-purple-400 hover:bg-purple-700 md:hover:bg-transparent md:hover:text-purple-700" aria-current="page">Home</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-black rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-purple-600 md:p-0 md:dark:hover:text-purple-400 dark:text-white dark:hover:bg-gray-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About</a>
+                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-600 rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-purple-600 md:p-0 md:dark:hover:text-purple-400 dark:text-gray-300 dark:hover:bg-gray-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About</a>
                         </li>
                         <li>
-                            <a href="#" class="block py-2 pl-3 pr-4 text-black rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-purple-600 md:p-0 md:dark:hover:text-purple-400 dark:text-white dark:hover:bg-gray-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
+                            <a href="#" class="block py-2 pl-3 pr-4 text-gray-600 rounded-lg hover:bg-gray-100 md:hover:bg-transparent md:hover:text-purple-600 md:p-0 md:dark:hover:text-purple-400 dark:text-gray-300 dark:hover:bg-gray-800 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -34,14 +34,14 @@ Vue.component("simple_footer_component_1722353151", {
                 <hr id="footer-divider" class="my-10 border-gray-200 sm:mx-auto dark:border-gray-700">
                 <div id="footer-content" class="text-center">
                     <div class="flex justify-center mb-6">
-                        <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-purple-600 dark:text-purple-400">
+                        <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-black dark:text-white">
                             <img id="footer-logo" src="./images/logo.svg" class="h-10 mr-4" alt="BlockSight Logo" />
                             BlockSight - Blockchain Analytics Suite
                         </a>
                     </div>
                 </div>
                 <div class="flex justify-center">
-                    <div id="footer-text" class="max-w-2xl text-base text-center text-black dark:text-white">
+                    <div id="footer-text" class="max-w-2xl text-base text-center text-gray-600 dark:text-gray-300">
                         Gain real-time insights into blockchain data with BlockSight's powerful analytics tools. Monitor transactions, track assets, and uncover emerging trends across multiple blockchains. Stay ahead of the curve with our cutting-edge platform.
                     </div>
                 </div>
