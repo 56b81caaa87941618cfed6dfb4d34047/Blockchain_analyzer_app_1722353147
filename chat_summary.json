@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the footer component to be sticky at the bottom of the page or static at the end of the content?\", \"option1\": \"Sticky at the bottom of the page\", \"option2\": \"Static at the end of the content\"}, {\"question 2\": \"Should the navlinks in the footer open in new tabs or in the same tab when clicked?\", \"option1\": \"Open in new tabs\", \"option2\": \"Open in the same tab\"}], \"input_token_count\": 266, \"output_token_count\": 111, \"time_taken\": \"0:00:04.186321\"}",
         "timestamp": "30072024153006",
         "message_id": "guest30072024153001"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain network status display\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer with search functionality\", \"checked\": false}, {\"feature\": \"Dark mode/light mode toggle for user preference\", \"checked\": true}, {\"feature\": \"Responsive chat support widget for quick inquiries\", \"checked\": false}, {\"feature\": \"Subscription form for blockchain updates newsletter\", \"checked\": false}, {\"feature\": \"User account creation for personalized blockchain insights\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 113, \"time_taken\": \"0:00:05.926857\"}",
+        "timestamp": "30072024153008",
+        "message_id": "guest30072024153001"
     }
 ]
