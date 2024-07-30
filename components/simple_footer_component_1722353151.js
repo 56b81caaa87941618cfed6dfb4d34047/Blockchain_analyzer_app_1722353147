@@ -34,8 +34,8 @@ Vue.component("simple_footer_component_1722353151", {
                 <hr id="footer-divider" class="my-10 border-gray-200 sm:mx-auto dark:border-gray-700">
                 <div id="footer-content" class="text-center">
                     <div class="flex justify-center mb-6">
-                        <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-purple-600 dark:text-purple-400">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-10 mr-4" alt="BlockSight Logo" />
+                        <a id="footer-logo-link" href="#" class="flex items-center text-3xl font-bold text-purple-600 dark:text-purple-400 hover:text-purple-700 dark:hover:text-purple-300 transition-colors duration-300">
+                            <img id="footer-logo" src="./images/logo.svg" class="h-12 mr-4" alt="BlockSight Logo" />
                             BlockSight - Blockchain Analytics Suite
                         </a>
                     </div>
