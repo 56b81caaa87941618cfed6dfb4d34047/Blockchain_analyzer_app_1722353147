@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the screen or should it disappear as users scroll down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"Do you have any specific design or theme in mind for the navbar in terms of color and font style?\", \"option1\": \"Yes, I'll provide the specific design guidelines\", \"option2\": \"No, I'm open to suggestions based on the overall app design\"}], \"input_token_count\": 266, \"output_token_count\": 117, \"time_taken\": \"0:00:04.843755\"}",
+        "message_id": "guest30072024153042",
+        "timestamp": "30072024153048",
+        "component_file_name": "simple_footer_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, working on adding a navbar with those links.",
         "message_id": "guest30072024153042",
