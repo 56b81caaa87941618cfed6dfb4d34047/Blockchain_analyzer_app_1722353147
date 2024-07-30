@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722353150",
+        "role": "chat_acknowledge",
+        "content": "Absolutely, working on adding a navbar with those links.",
+        "message_id": "guest30072024153042",
+        "timestamp": "30072024153043",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlink home, about and contact",
-        "timestamp": "30072024152707",
-        "message_id": "guest30072024152707"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, adding sidebar with navlinks: home, about, and contact.",
-        "timestamp": "30072024152709",
-        "message_id": "guest30072024152707"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Floating action button for quick access to essential features like wallet, settings, or support\", \"checked\": true}, {\"feature\": \"Dark mode toggle on the sidebar for user preference\", \"checked\": false}, {\"feature\": \"Real-time notifications for blockchain updates, available in the sidebar\", \"checked\": true}, {\"feature\": \"Sidebar expansion to show detailed navigation labels on hover or click\", \"checked\": true}, {\"feature\": \"Dynamic 'Recent Activity' section in the sidebar to highlight latest blockchain transactions or alerts\", \"checked\": false}, {\"feature\": \"Customizable sidebar themes or colors to match user preference\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 134, \"time_taken\": \"0:00:08.457338\"}",
-        "timestamp": "30072024152717",
-        "message_id": "guest30072024152707"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible and only appear when a user clicks on a menu icon?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"For the navigation links (Home, About, Contact), do you have specific pages already designed for these links, or do we need to create new pages for them?\", \"option1\": \"Existing pages need to be linked\", \"option2\": \"New pages need to be created\"}], \"input_token_count\": 266, \"output_token_count\": 122, \"time_taken\": \"0:00:12.801800\"}",
-        "timestamp": "30072024152722",
-        "message_id": "guest30072024152707"
-    },
-    {
-        "role": "user",
-        "content": "add a footer component with navlinks home, about and contact",
-        "timestamp": "30072024153001",
-        "message_id": "guest30072024153001"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Absolutely, I'll add a footer component with those navlinks.",
-        "timestamp": "30072024153002",
-        "message_id": "guest30072024153001"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the footer component to be sticky at the bottom of the page or static at the end of the content?\", \"option1\": \"Sticky at the bottom of the page\", \"option2\": \"Static at the end of the content\"}, {\"question 2\": \"Should the navlinks in the footer open in new tabs or in the same tab when clicked?\", \"option1\": \"Open in new tabs\", \"option2\": \"Open in the same tab\"}], \"input_token_count\": 266, \"output_token_count\": 111, \"time_taken\": \"0:00:04.186321\"}",
-        "timestamp": "30072024153006",
-        "message_id": "guest30072024153001"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain network status display\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer with search functionality\", \"checked\": false}, {\"feature\": \"Dark mode/light mode toggle for user preference\", \"checked\": true}, {\"feature\": \"Responsive chat support widget for quick inquiries\", \"checked\": false}, {\"feature\": \"Subscription form for blockchain updates newsletter\", \"checked\": false}, {\"feature\": \"User account creation for personalized blockchain insights\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 113, \"time_taken\": \"0:00:05.926857\"}",
-        "timestamp": "30072024153008",
-        "message_id": "guest30072024153001"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a navbar with the navlinks home, about and contact",
+        "message_id": "guest30072024153042",
         "timestamp": "30072024153042",
+        "component_file_name": "simple_footer_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time blockchain network status display\", \"checked\": true}, {\"feature\": \"Interactive blockchain explorer with search functionality\", \"checked\": false}, {\"feature\": \"Dark mode/light mode toggle for user preference\", \"checked\": true}, {\"feature\": \"Responsive chat support widget for quick inquiries\", \"checked\": false}, {\"feature\": \"Subscription form for blockchain updates newsletter\", \"checked\": false}, {\"feature\": \"User account creation for personalized blockchain insights\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 113, \"time_taken\": \"0:00:05.926857\"}",
+        "message_id": "guest30072024153001",
+        "timestamp": "30072024153008",
+        "component_file_name": "simple_hero_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the footer component to be sticky at the bottom of the page or static at the end of the content?\", \"option1\": \"Sticky at the bottom of the page\", \"option2\": \"Static at the end of the content\"}, {\"question 2\": \"Should the navlinks in the footer open in new tabs or in the same tab when clicked?\", \"option1\": \"Open in new tabs\", \"option2\": \"Open in the same tab\"}], \"input_token_count\": 266, \"output_token_count\": 111, \"time_taken\": \"0:00:04.186321\"}",
+        "message_id": "guest30072024153001",
+        "timestamp": "30072024153006",
+        "component_file_name": "simple_hero_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I'll add a footer component with those navlinks.",
+        "message_id": "guest30072024153001",
+        "timestamp": "30072024153002",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a footer component with navlinks home, about and contact",
+        "message_id": "guest30072024153001",
+        "timestamp": "30072024153001",
+        "component_file_name": "simple_hero_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the sidebar to be permanently visible or should it be collapsible and only appear when a user clicks on a menu icon?\", \"option1\": \"Permanently visible\", \"option2\": \"Collapsible\"}, {\"question 2\": \"For the navigation links (Home, About, Contact), do you have specific pages already designed for these links, or do we need to create new pages for them?\", \"option1\": \"Existing pages need to be linked\", \"option2\": \"New pages need to be created\"}], \"input_token_count\": 266, \"output_token_count\": 122, \"time_taken\": \"0:00:12.801800\"}",
+        "message_id": "guest30072024152707",
+        "timestamp": "30072024152722",
+        "component_file_name": "simple_cta_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Floating action button for quick access to essential features like wallet, settings, or support\", \"checked\": true}, {\"feature\": \"Dark mode toggle on the sidebar for user preference\", \"checked\": false}, {\"feature\": \"Real-time notifications for blockchain updates, available in the sidebar\", \"checked\": true}, {\"feature\": \"Sidebar expansion to show detailed navigation labels on hover or click\", \"checked\": true}, {\"feature\": \"Dynamic 'Recent Activity' section in the sidebar to highlight latest blockchain transactions or alerts\", \"checked\": false}, {\"feature\": \"Customizable sidebar themes or colors to match user preference\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 134, \"time_taken\": \"0:00:08.457338\"}",
+        "message_id": "guest30072024152707",
+        "timestamp": "30072024152717",
+        "component_file_name": "simple_cta_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, adding sidebar with navlinks: home, about, and contact.",
+        "message_id": "guest30072024152707",
+        "timestamp": "30072024152709",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlink home, about and contact",
+        "message_id": "guest30072024152707",
+        "timestamp": "30072024152707",
+        "component_file_name": "simple_cta_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "30072024153043",
         "message_id": "guest30072024153042"
     }
 ]
