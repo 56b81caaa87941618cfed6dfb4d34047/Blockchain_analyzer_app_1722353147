@@ -1,5 +1,23 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky navbar for easy navigation across different sections\", \"checked\": true}, {\"feature\": \"Dropdown menus under navlinks for categorizing information\", \"checked\": false}, {\"feature\": \"Search functionality within the navbar for quick access to specific blockchain data\", \"checked\": false}, {\"feature\": \"Dark mode toggle on the navbar for user preference\", \"checked\": true}, {\"feature\": \"Responsive design for the navbar to ensure compatibility with devices of various sizes\", \"checked\": true}, {\"feature\": \"User login/signup icon for personalization and data tracking\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 123, \"time_taken\": \"0:00:08.160565\"}",
+        "message_id": "guest30072024153042",
+        "timestamp": "30072024153052",
+        "component_file_name": "simple_footer_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the screen or should it disappear as users scroll down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"Do you have any specific design or theme in mind for the navbar in terms of color and font style?\", \"option1\": \"Yes, I'll provide the specific design guidelines\", \"option2\": \"No, I'm open to suggestions based on the overall app design\"}], \"input_token_count\": 266, \"output_token_count\": 117, \"time_taken\": \"0:00:04.843755\"}",
+        "message_id": "guest30072024153042",
+        "timestamp": "30072024153048",
+        "component_file_name": "simple_footer_component_1722353151",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, working on adding a navbar with those links.",
         "message_id": "guest30072024153042",
@@ -72,27 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Great, adding sidebar with navlinks: home, about, and contact.",
-        "message_id": "guest30072024152707",
-        "timestamp": "30072024152709",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlink home, about and contact",
-        "message_id": "guest30072024152707",
-        "timestamp": "30072024152707",
-        "component_file_name": "simple_cta_component_1722353151",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "30072024153043",
+        "content": "In the conversation, the user requested the AI to add a sidebar with navigation links including \"home,\" \"about,\" and \"contact.\" The AI acknowledged the request by confirming the addition of the sidebar with the specified navigation links. However, the AI also asked the user to describe the project a bit more to gain a better understanding or to possibly refine the implementation based on the project's specific needs or context.",
+        "timestamp": "30072024153052",
         "message_id": "guest30072024153042"
     }
 ]
