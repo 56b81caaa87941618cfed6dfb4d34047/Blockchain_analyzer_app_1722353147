@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new blockchain information",
     "creation_time": "2024-07-30 20:55:47.381830",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The website predominantly uses a clean and modern style with a white background, accentuated by black text and highlights in shades of purple. The layout includes bold headings, icons, and infographics to enhance visual appeal and provide clear information hierarchy."
 }
