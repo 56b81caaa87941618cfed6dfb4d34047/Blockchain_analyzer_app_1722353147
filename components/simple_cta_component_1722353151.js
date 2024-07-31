@@ -15,11 +15,11 @@ Vue.component("simple_cta_component_1722353151", {
             <div id="cta-inner-container" class="max-w-screen-xl px-6 py-10 mx-auto lg:py-20 lg:px-8">
                 <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                     <div id="cta-title-container" class="flex">
-                        <h2 id="cta-title" class="flex-1 mb-6 text-4xl font-bold leading-tight tracking-tight text-gray-900">Unveil the Future of Blockchain Analytics</h2>
+                        <h2 id="cta-title" class="flex-1 mb-6 text-4xl font-bold leading-tight tracking-tight text-black">Unveil the Future of Blockchain Analytics</h2>
                     </div>
 
                     <div id="cta-subtitle-container" class="flex">
-                        <p id="cta-subtitle" class="flex-1 mb-8 text-lg text-gray-600">Harness cutting-edge technology to gain unparalleled insights into emerging blockchain data.</p>
+                        <p id="cta-subtitle" class="flex-1 mb-8 text-lg text-gray-700">Harness cutting-edge technology to gain unparalleled insights into emerging blockchain data.</p>
                     </div>
                     
                     <div id="cta-button-container" class="flex">
